@@ -1,0 +1,1 @@
+Start the service using the play button in Visual Studio Code and then open the browser and load localhost:8080 to work on the application.  Change the OPEN AI key in application.properties in Resources folder
